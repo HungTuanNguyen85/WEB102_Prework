@@ -1,6 +1,6 @@
 # WEB102 Prework - _Sea Monster Crowdfunding_
 
-Submitted by: **Ngoc Phuong Duyen Nguyen - Sophie Nguyen (Preferred name)**
+Submitted by: **Ngoc Phuong Duyen Nguyen**
 
 **Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
@@ -38,7 +38,7 @@ GIF created with LICEcap v1.32 on Linux Ubuntu 22.04
 
 ## License
 
-    Copyright [2023] [Sophie Nguyen]
+    Copyright [2023] [Ngoc Phuong Duyen Nguyen]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
